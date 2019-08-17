@@ -4,13 +4,13 @@ import 'firebase/firebase-firestore';
 
 
 const  firebaseConfig = {
-    apiKey: "AIzaSyABBIirPGAK6ZL1pqX5F2_YZoW65Necsqg",
-    authDomain: "react-hooks-app-27142.firebaseapp.com",
-    databaseURL: "https://react-hooks-app-27142.firebaseio.com",
-    projectId: "react-hooks-app-27142",
-    storageBucket: "react-hooks-app-27142.appspot.com",
-    messagingSenderId: "320445986780",
-    appId: "1:320445986780:web:f7eaefd713594061"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: ",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
   class Firebase {
       constructor(){
